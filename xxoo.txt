@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 qwerqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+=======
+qwerdawdawdwa
+>>>>>>> 37e3ec19540c0e5bbf134619b8d198498be54ede
